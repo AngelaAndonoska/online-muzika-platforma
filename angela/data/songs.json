@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Smile",
+        "genre": "Rock",
+        "releaseYear": "1971",
+        "album": "Favorite songs"
+    },
+    {
+        "title": "Hey Jude",
+        "genre": "Rock",
+        "releaseYear": "1968",
+        "album": "Random Songs"
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "genre": "Rock",
+        "releaseYear": "1975",
+        "album": "Random Songs"
+    },
+    {
+        "title": "Rolling in the Deep",
+        "genre": "Pop",
+        "releaseYear": "1999",
+        "album": "Random Songs"
+    },
+    {
+        "title": "Smells Like Teen Spirit",
+        "genre": "Grunge",
+        "releaseYear": "1991",
+        "album": "Random Songs"
+    },
+    {
+        "title": "Blinding Lights",
+        "genre": "Synth-pop",
+        "releaseYear": "2019",
+        "album": "Favorite songs"
+    },
+    {
+        "title": "Shape of You",
+        "genre": "Pop",
+        "releaseYear": "2017",
+        "album": "Favorite songs"
+    },
+    {
+        "title": "Blowin' in the Wind",
+        "genre": "Folk",
+        "releaseYear": "1963",
+        "album": "Favorite songs"
+    },
+    {
+        "title": "Uptown Funk",
+        "genre": "Funk",
+        "releaseYear": "2014",
+        "album": "Favorite songs"
+    },
+    {
+        "title": "I Will Always Love You",
+        "genre": "Pop",
+        "releaseYear": "1992",
+        "album": "Favorite songs"
+    }
+]
